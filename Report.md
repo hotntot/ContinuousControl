@@ -36,9 +36,11 @@ These were the hyperparameters used:
 ## Plot of Rewards
 
 Version 2 was solved in 231 episodes and seems to be still learning:
+
 ![Version 2 Episodic Rewards](./images/version_2_scores.png)
 
 Then it was demonstrated that the learned model was working fine with Version 1:
+
 ![Version 1 Episodic Rewards](./images/version_1_scores.png)
 
 ## Ideas for Future Work
