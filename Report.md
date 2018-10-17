@@ -48,4 +48,5 @@ Then it was demonstrated that the learned model was working fine with Version 1:
 The agent solved the task faster with higher learning rates but started deteriorating towards the end of training. Now it doesn't seem to have deteriorated at all. Longer training or lower learning rates could probably get the average score even higher.
 
 There is still lots of unexplored territory regarding network architecture (more layers, different sizes, more or less batch normalization).
+
 Other algorithms would be interesting to benchmark against like [PPO](https://arxiv.org/pdf/1707.06347.pdf), [A3C](https://arxiv.org/pdf/1602.01783.pdf) and [D4PG](https://openreview.net/pdf?id=SyZipzbCb)
